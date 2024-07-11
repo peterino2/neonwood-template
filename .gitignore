@@ -1,4 +1,5 @@
 NeonWood/
-zig-cache/
+.zig-cache/
 zig-out/
+*.peterino
 Saved/
